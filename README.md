@@ -1,2 +1,1 @@
-# Ethnic-Painting-Analysis-
-Research On Ethnic Painting Analysis Based On Deep Learning 
+# Research On Ethnic Painting Analysis Based On Deep Learning 
